@@ -26,6 +26,8 @@ Store results of subproblems to avoid recalculating.
 
 ✅ Example: Fibonacci, Knapsack, Longest Common Subsequence.
 
+Refer here for more details: [Dynamic Programming](src/main/java/com/algo/dynamicProgramming/README.md)
+
 ## 5. Backtracking
 Try all possibilities like brute force, but prune bad choices early.
 
