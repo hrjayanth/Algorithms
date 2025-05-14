@@ -23,17 +23,14 @@ Example: Shortest path in a graph — the shortest path from A to C via B is the
 
 ### 1. Top-Down (Memoization):
 
-Start solving the problem recursively.
-
-Store the results of subproblems in a table (usually a dictionary or array).
-
-Before solving a subproblem, check if it’s already solved.
+* Start solving the problem recursively.
+* Store the results of subproblems in a table (usually a dictionary or array).
+* Before solving a subproblem, check if it’s already solved.
 
 ### 2. Bottom-Up (Tabulation):
 
-Solve all smaller subproblems first and use their answers to build up the solution to the original problem.
-
-Often implemented using loops.
+* Solve all smaller subproblems first and use their answers to build up the solution to the original problem.
+* Often implemented using loops.
 
 ## 🧰 When to Use Dynamic Programming
 
