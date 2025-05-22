@@ -41,7 +41,7 @@ Example: Shortest path in a graph — the shortest path from A to C via B is the
 ## 🧮 Common Examples
 
 1. [Fibonacci sequence](Fibonacci.java)
-2. Knapsack problem
+2. [Knapsack problem](Knapsack.java)
 3. Longest common subsequence (LCS)
 4. Edit distance
 5. [Coin change](CoinChange.java)

@@ -14,6 +14,8 @@ Works only when local optimal = global optimal.
 
 ✅ Example: Coin Change (if denominations are standard like {1, 5, 10, 25}), Activity Selection, Huffman Coding.
 
+Refer here for more details: [Greedy Algorithms](src/main/java/com/algo/greedy/README.md)
+
 ## 3. Divide and Conquer
 Break the problem into smaller subproblems, solve them independently, and combine the results.
 
