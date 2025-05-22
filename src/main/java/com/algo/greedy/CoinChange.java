@@ -6,7 +6,7 @@ import java.util.List;
 
 public class CoinChange {
     public static void main(String[] args) {
-        int[] coins = {1, 5, 10, 25};  // US coin denominations
+        int[] coins = {1, 5, 10, 25};
         int amount = 63;
 
         findMinCoins(coins, amount);
