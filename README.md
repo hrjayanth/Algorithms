@@ -8,6 +8,8 @@ Simple but inefficient for large inputs.
 
 📌 Example: Check all substrings to find the longest palindrome.
 
+Refer here for more details: [Brute Force](src/main/java/com/algo/bruteForce/README.md)
+
 ## 2. Greedy Algorithms
 
 Make the best choice at each step, hoping it leads to the best overall solution.
@@ -42,7 +44,7 @@ Used in combinatorial problems.
 
 📌 Example: Sudoku Solver, N-Queens, Subset Sum, Word Search.
 
-Refer here for more details: [Backtracking](src/main/java/com/algo/greedy/README.md)
+Refer here for more details: [Backtracking](src/main/java/com/algo/backtracking/README.md)
 
 ## 6. Recursion
 
