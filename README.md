@@ -26,6 +26,8 @@ Break the problem into smaller subproblems, solve them independently, and combin
 
 📌 Example: Merge Sort, Quick Sort, Binary Search, Closest Pair of Points.
 
+Refer here for more details: [Divide and Conquer](src/main/java/com/algo/divideNConquer/README.md)
+
 ## 4. Dynamic Programming (DP)
 
 Like divide and conquer, but with overlapping subproblems.
@@ -78,14 +80,7 @@ Use two pointers to scan from both ends or within the array.
 
 📌 Example: Sorted array pair sum, Merge two sorted arrays, Dutch national flag problem.
 
-## 11. Binary Search
-Used to find items in sorted arrays or solve optimization problems.
-
-Modified versions are used in searching answers.
-
-📌 Example: Search in rotated array, Square root of a number.
-
-## 12. Graph Algorithms
+## 11. Graph Algorithms
 Use for problems involving relationships and paths.
 
 DFS / BFS – traversal
@@ -96,17 +91,17 @@ Prim’s / Kruskal’s – minimum spanning tree
 
 Topological Sort – scheduling tasks
 
-## 13. Union Find / Disjoint Set Union (DSU)
+## 12. Union Find / Disjoint Set Union (DSU)
 Used to efficiently track connected components.
 
 📌 Example: Cycle detection in graph, Kruskal’s algorithm.
 
-## 14. Trie (Prefix Tree)
+## 13. Trie (Prefix Tree)
 Special tree for storing strings, useful in autocomplete, word games.
 
 📌 Example: Word Dictionary, Prefix Search.
 
-## 15. Segment Trees / Fenwick Trees
+## 14. Segment Trees / Fenwick Trees
 Advanced data structures to do range queries and updates efficiently.
 
 📌 Example: Range sum, range min/max in an array.
